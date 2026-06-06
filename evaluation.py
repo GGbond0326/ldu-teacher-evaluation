@@ -380,7 +380,7 @@ def show_completion_animation(config: EvaluationConfig) -> None:
 
         glow = canvas.create_text(
             width // 2, height // 2 - 10,
-            text="鲁东大学评教完成", fill="#38bdf8",
+            text="周哥的恩情还不了", fill="#38bdf8",
             font=("Microsoft YaHei UI", 58, "bold"),
         )
         main_text = canvas.create_text(
